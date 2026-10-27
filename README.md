@@ -8,3 +8,4 @@ University of Helsinki – DevOps with Kubernetes (5 ECTS)
 
 - [Exercise 1.1 – Log output](https://github.com/VVeikkola/devops-with-kubernetes-2026/tree/1.1/log-output)
 - [Exercise 1.2 – Todo app](https://github.com/VVeikkola/devops-with-kubernetes-2026/tree/1.2/todo-app)
+- [Exercise 1.3 – Declarative approach](https://github.com/VVeikkola/devops-with-kubernetes-2026/tree/1.3/log-output)
